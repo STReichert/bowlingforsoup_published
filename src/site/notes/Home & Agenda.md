@@ -9,6 +9,9 @@
 ## What's on the Back-burner
 
 ## All Tasks
-```tasks
-not done
-```
+- [ ] Ulfgar's Story and Backstory
+- [ ] Aust's Story
+- [ ] O's Story
+- [ ] Figure out what is Up with the "Ruby of Power" O is contracted to destroy it/her/them.
+
+{ .block-language-dataview}
