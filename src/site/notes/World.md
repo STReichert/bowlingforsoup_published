@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/world/"}
 ---
 
 ```leaflet
