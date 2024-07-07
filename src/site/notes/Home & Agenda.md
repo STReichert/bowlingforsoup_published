@@ -12,6 +12,7 @@
 - [ ] Ulfgar's Story and Backstory
 - [ ] Aust's Story and Backstory
 - [ ] O's Story and Backstory
+- [ ] Share video about accessing notes
 - [ ] Figure out what is Up with the "Ruby of Power" O is contracted to destroy it/her/them.
 
 { .block-language-dataview}
