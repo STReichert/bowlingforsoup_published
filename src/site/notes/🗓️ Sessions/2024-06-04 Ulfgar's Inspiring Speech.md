@@ -52,7 +52,7 @@ Scrying:
 			Gertrude, the blue eyes
 				She doesn't have any eyes in her face
 			There is a body bound to the wall in the hag's cottage
-				[[Aurelia Clay\|Aurelia Clay]] has been tortured for a long time it looks like.
+				[[🙋 People/Aurelia Clay\|Aurelia Clay]] has been tortured for a long time it looks like.
 			Once they've taken care of their business
 				"Annabel is pruning the garden"
 				They said they would be coming in "a week's time"

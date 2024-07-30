@@ -4,7 +4,7 @@
 
 Where we are:
 - In the forest just landed in the hags clearing
-- They have a hostage ([[Aurelia Clay\|Aurelia Clay]])
+- They have a hostage ([[🙋 People/Aurelia Clay\|Aurelia Clay]])
 - The hag we've seen before (green) - [[Milicent\|Milicent]]
 - The blue one - [[Gertrude\|Gertrude]]
 	- They are consuming the nightmares of one of their captives

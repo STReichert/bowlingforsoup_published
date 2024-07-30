@@ -3,16 +3,13 @@
 ---
 
 ## Next Session
-- July 18th @ 7:30 PM Eastern
+- Monday August 5th at 7:30 PM eastern
 ## Active Quest
 - Figure Out What to Do about Ruby
 ## What's on the Back-burner
 
 ## All Tasks
-- [ ] Ulfgar's Story and Backstory
-- [ ] Aust's Story and Backstory
-- [ ] O's Story and Backstory
-- [ ] Share video about accessing notes
-- [ ] Figure out what is Up with the "Ruby of Power" O is contracted to destroy it/her/them.
+- [ ] Lift the curse on Aust from this sword (Aust goes to Zahara for help)
+- [ ] Faem and Ulfgar go try to catch up with O and get them to come back.
 
 { .block-language-dataview}
