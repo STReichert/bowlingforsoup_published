@@ -5,7 +5,8 @@
 ## Next Session
 - Monday August 5th at 7:30 PM eastern
 ## Active Quest
-- Figure Out What to Do about Ruby
+- Get O back with the party
+- Break the Curse on Aust/the sword
 ## What's on the Back-burner
 
 ## All Tasks
