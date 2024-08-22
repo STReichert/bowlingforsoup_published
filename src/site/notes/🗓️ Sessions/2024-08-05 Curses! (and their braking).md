@@ -6,8 +6,8 @@
 [[🙋 People/PCs/O\|O]] ran off into the woods and decided not to kill ruby, so they grew really old. (after talking to aust)
 Aust killed ruby because the sword made him do it.
 ## Agenda/To-Do
-- [ ] Lift the curse on Aust from this sword (Aust goes to Zahara for help)
-- [ ] Faem and Ulfgar go try to catch up with O and get them to come back.
+- [x] Lift the curse on Aust from this sword (Aust goes to Zahara for help) ✅ 2024-08-21
+- [x] Faem and Ulfgar go try to catch up with O and get them to come back. ✅ 2024-08-21
 ## Summary
 ### O alone in the woods
 They are in the woods alone and remember they still have the mace with them.as they reach a glade. They make a prayer about circles.
@@ -33,4 +33,4 @@ Zahara will need to do some more research and learning.
 
 While Aust is asleep, he dreams...
 	In this dream there is darkness, followed by a familiar voice speaking to him... in the darkness there is a whip wreathed in flames and a sword similar to his own. Two large leathery wings attached to a body and horns on it's head. Plus flame red eyes.
-> My name is [[📚 In Game Resources & Lore/Yarrowish\|Yarrowish]] and I have been by your side -- the creepy sword
+> My name is [[🙋 People/Yarrowish\|Yarrowish]] and I have been by your side -- the creepy sword

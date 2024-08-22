@@ -9,3 +9,4 @@ Powerful artifacts from [[📚 In Game Resources & Lore/The Calamity\|The Calami
 - Siobhan's Staff
 - [[Hilt of the Shifting Sun\|Hilt of the Shifting Sun]]
 - Some Mace from Bane's Champion (used by the Hags to create the corruption).
+- [[🙋 People/Yarrowish\|Ruin's Wake]] (Aust's bad good sword).
