@@ -6,10 +6,11 @@
 
 
 ## People and Contacts
-| Name                                                        | Faction                                                                | tags                             |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
-| [[🙋 People/Shazarial Bendelthal\|Shazarial Bendelthal]] | \-                                                                     | <ul><li>#burned_bridge</li></ul> |
-| [[🙋 People/Zahara Norixius\|Zahara Norixius]]           | <ul><li>[[🤝 Factions/Diarchy of Uthodurn.md\\|The Diarchy]]</li></ul> | <ul><li>#friend</li></ul>        |
+| Name                                                                    | Faction                                                                | tags                             |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
+| [[🙋 People/Shazarial Bendelthal\|Shazarial Bendelthal]]             | \-                                                                     | <ul><li>#burned_bridge</li></ul> |
+| [[🙋 People/Zahara Norixius\|Zahara Norixius]]                       | <ul><li>[[🤝 Factions/Diarchy of Uthodurn.md\\|The Diarchy]]</li></ul> | <ul><li>#friend</li></ul>        |
+| [[🙋 People/Manneo Anokalarithivaniako\|Manneo Anokalarithivaniako]] | \-                                                                     | \-                               |
 
 { .block-language-dataview}
 ## Places We've Been

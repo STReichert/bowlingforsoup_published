@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/people/p-cs/faem-of-the-silent-raven-clan/"}
 ---
 
+
+| Faction         | Location         | Race         | Pronouns         | Class(es)            | Title               |
+| --------------- | ---------------- | ------------ | ---------------- | -------------------- | ------------------- |
+| [[🤝 Factions/Bowling for Soup\|Bowling for Soup]] | `=this.location` | Changeling | they/them | `=this["class(es)"]` | `=this["title(s)"]` |
 ## Background
 Raised in the Silent Raven Clan (~18 people) in the village of Kend near the city of Nogvurot. Faem’s family were primarily farmers making a simple life in a village of around 200 people. As a child, Faem’s proclivity for roguish activities was recognized by their Uncle Sairs, who had returned to the clan not long before Faem was born. Faem was unsure of what their uncle did before returning to the clan, but he was able to teach Faem how to use their skills effectively as a changeling rogue. 
 

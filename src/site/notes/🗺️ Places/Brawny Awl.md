@@ -9,9 +9,10 @@
 | ------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
 | [[🙋 People/Berrain Stonebrow\|Berrain Stonebrow]]   | <ul><li>[[🤝 Factions/Diarchy of Uthodurn.md\\|Diarchy of Uthodurn]]</li></ul> | <ul><li>#asshole</li><li>#cop</li></ul> |
 | [[🙋 People/Derald\|Derald]]                         | <ul><li>[[🤝 Factions/Bowling for Soup.md\\|Bowling for Soup]]</li></ul>       | <ul><li>#scamp</li></ul>                |
-| [[🙋 People/Elsavara Roarin\|Elsavara Roarin]]       | \-                                                                             | <ul><li>hunter</li></ul>                |
-| [[🙋 People/Gotrick Ironbranch\|Gotrick Ironbranch]] | [[🤝 Factions/Bowling for Soup\|Bowling for Soup]]                          | \-                                      |
 | [[🙋 People/Poninny\|Poninny]]                       | \-                                                                             | \-                                      |
+| [[🙋 People/Gotrick Ironbranch\|Gotrick Ironbranch]] | [[🤝 Factions/Bowling for Soup\|Bowling for Soup]]                          | \-                                      |
+| [[🙋 People/Falco\|Falco]]                           | \-                                                                             | \-                                      |
+| [[🙋 People/Elsivar Arorenn\|Elsivar Arorenn]]       | \-                                                                             | <ul><li>hunter</li></ul>                |
 
 { .block-language-dataview}
 ## Places We've Been
