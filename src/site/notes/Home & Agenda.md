@@ -3,7 +3,7 @@
 ---
 
 ## Next Session
-- Wednesday November 20th, 8:30pm
+- Wednesday February 12 9pm EST
 ## Active Quest
 - Set up a brunch for the Brawny Awl
 - Get ready to go to the underdark

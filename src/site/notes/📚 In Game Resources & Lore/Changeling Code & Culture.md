@@ -15,4 +15,9 @@
 3. No one is free until we're all free
 4. All things and people change and grow, let them
 5. There is beauty in all forms. Put it on display.
+
+Things to have as a part of the ritual
+- A circular pebble from O
+- An earing from Aust
+- Some twigs from Ulfgar's beard
 ## The Culture

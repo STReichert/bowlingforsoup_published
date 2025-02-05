@@ -54,3 +54,13 @@ O is the spirit of the Brawny awl
 	as Aust casts fairy fire create an image of the brawny awl as an angelic woman's figure
 	O pulls the there are two wolves and you must choose the light
 	
+Aust's time meditating
+- entrance down to the underdark in the dunrock mountains
+- We are drawn South South-East
+
+## For next session
+- We are serving brunch like Dcat serving Breakfast triangles
+- Faem takes the paladin oath
+- O finishes language class, goes up the mountain and has the after party
+- Zahara has research on the underdark
+- 
