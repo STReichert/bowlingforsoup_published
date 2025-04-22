@@ -9,5 +9,7 @@ Know's [[🙋 People/PCs/Faem of the Silent Raven Clan\|Faem]] as the alias, [[�
 ## Seen
 - [[🗓️ Sessions/2021-01-05 Back to Uthodurn\|2021-01-05 Back to Uthodurn]]: 
 
+- [[🗓️ Sessions/2025-02-12 Midnight Breakfast\|2025-02-12 Midnight Breakfast]]: 
+
 
 { .block-language-dataview}

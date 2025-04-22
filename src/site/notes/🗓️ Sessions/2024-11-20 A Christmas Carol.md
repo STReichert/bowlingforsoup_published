@@ -63,4 +63,3 @@ Aust's time meditating
 - Faem takes the paladin oath
 - O finishes language class, goes up the mountain and has the after party
 - Zahara has research on the underdark
-- 
